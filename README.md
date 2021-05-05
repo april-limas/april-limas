@@ -5,4 +5,6 @@ A skilled, reliable and detailed-oriented Junior Full Stack Software Developer s
 - 🔭   I’m currently working on a personal project called Seasons
 - 🌱   I’m currently learning React Native
 - 📫   How to reach me: aprilj.limas@gmail.com
+- 👤   Let's connect on <a href="https://www.linkedin.com/in/april-limas/" target="_blank">LinkedIn</a>
 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=april-limas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
