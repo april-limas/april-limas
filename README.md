@@ -1,6 +1,6 @@
 ### Hi there 👋, April Limas
 #### Software Engineer
-![Software Engineer](https://media-exp1.licdn.com/dms/image/C4D16AQEBldBDbFGd6w/profile-displaybackgroundimage-shrink_200_800/0/1620076819261?e=1625702400&v=beta&t=y0sCsMy9yV7uKf48jA2xDGn0rzfG0fehg5LOygsi4YU)
+![Software Engineer](https://github.com/april-limas/april-limas/blob/main/fab-lentz-mRMQwK513hY-unsplash.jpg)
 
 A skilled, reliable and detailed-oriented Junior Full Stack Software Engineer seeking a challenging entry-level position in a fast-paced organization. A lifelong learner, bringing hands-on project experience to provide long-term value to the company.
 
